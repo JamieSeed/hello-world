@@ -1,0 +1,1 @@
+This is JamieSeed's first Git Project!
